@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">TSU_STUDY_STAM</string>
+    <string name="skip">Skip</string>
+    <string name="login">LOGIN</string>
+    <string name="continue_without_login">Continue without Login</string>
+    <string name="submit">Submit</string>
+    <string name="password">Password</string>
+    <string name="emailaddress">EmailAddress</string>
+    <string name="Emailaddress" />
+    <string name="registration">Registration</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="tsu">TSU</string>
+    <string name="about_us">About us</string>
+    <string name="privace">Privace</string>
+    <string name="contact_us">Contact us</string>
+    <string name="among_1_5_of_the_world_s_best_universities">Among 1.5% of the world’s best universities</string>
+    <string name="up_to_400_international_partners">Up to 400 international partners</string>
+    <string name="why_tsu">Why TSU?</string>
+    <string name="research_and_international_projects">Research and international projects</string>
+    <string name="student_life">Student life</string>
+    <string name="about_university">About university</string>
+    <string name="our_locations">our locations</string>
+    <string name="faculties">Faculties</string>
+</resources>
